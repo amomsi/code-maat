@@ -2,3 +2,4 @@ language: clojure
 
 jdk:
   - openjdk8
+script: lein uberjar
